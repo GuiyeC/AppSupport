@@ -1,5 +1,5 @@
-# Terms of Service
-By downloading or using this app ("the App"), you agree to these Terms of Service (“Terms”). Please read them carefully as they govern your use of the App and its features. If you do not agree to these Terms, do not use the App.
+# Terms of Use
+By downloading or using this app ("the App"), you agree to these Terms of Use (“Terms”). Please read them carefully as they govern your use of the App and its features. If you do not agree to these Terms, do not use the App.
 
 ## Acceptance of Terms
 By downloading, installing, or using the App, you accept and agree to be bound by these Terms, including any future modifications.
@@ -17,9 +17,9 @@ You agree to use the App in compliance with all applicable laws and regulations.
 Subject to your compliance with these Terms, we grant you a limited, non-exclusive, non-transferable, revocable license to use the App for personal or professional use. All rights, title, and interest in and to the App, including any intellectual property, remain with Guillermo Cique.
 
 ## Changes to these terms
-I may update our Terms of Service from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms of Service on this page.
+I may update our Terms of Use from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms of Use on this page.
 
 These terms are effective as of 2024-11-29
 
 ## Contact Us
-If you have any questions or suggestions about the Terms of Service, do not hesitate to contact me at guiyec@gmail.com.
+If you have any questions or suggestions about the Terms of Use, do not hesitate to contact me at guiyec@gmail.com.
