@@ -5,7 +5,7 @@ By downloading or using this app ("the App"), you agree to these Terms of Servic
 By downloading, installing, or using the App, you accept and agree to be bound by these Terms, including any future modifications.
 
 ## Privacy and Data Security
-For more information, please review our  [Privacy Policy](../PRIVACY_POLICY.md).
+For more information, please review our  [Privacy Policy](./PRIVACY_POLICY.md).
 
 ## User Responsibilities
 You agree to use the App in compliance with all applicable laws and regulations. You are solely responsible for:
