@@ -16,6 +16,9 @@ You agree to use the App in compliance with all applicable laws and regulations.
 ## License and Intellectual Property
 Subject to your compliance with these Terms, we grant you a limited, non-exclusive, non-transferable, revocable license to use the App for personal or professional use. All rights, title, and interest in and to the App, including any intellectual property, remain with Guillermo Cique.
 
+## App Store
+For apps available through the App Store Apple [standard Apple Terms of Use (EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) are also included in these terms.
+
 ## Changes to these terms
 I may update our Terms of Use from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms of Use on this page.
 
